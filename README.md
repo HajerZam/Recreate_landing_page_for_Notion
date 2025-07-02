@@ -43,7 +43,7 @@ A responsive and visually appealing clone of the Notion landing page built using
 
 ## 📸 Demo
 
-Live preview: [**View on GitHub Pages**](https://hajerzam.github.io/recreate_landing_page_for_notion)
+Live preview: [**View on GitHub Pages**](https://hajerzam.github.io/Recreate_landing_page_for_Notion/)
 
 ---
 
