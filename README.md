@@ -2,7 +2,7 @@
 
 A responsive and visually appealing clone of the Notion landing page built using **HTML**, **CSS**, and **Bootstrap 5**. This project focuses on frontend design, animations, and modern web layout practices.
 
-[Notion Clone Screenshot](screenshot/screenshot.png)
+[Notion Clone Screenshot](screenshot/Screenshot2025-07-02 183056.png)
 
 ---
 
@@ -34,7 +34,7 @@ A responsive and visually appealing clone of the Notion landing page built using
 /notion-landing-page-clone
 │
 ├── index.html           # Main file (normally I don't like using one file for the html, css and js but I had to in  this project)
-├── /assets              # (Optional) Images, icons, etc.
+├── /screenshot
 └── README.md
 
 ````
