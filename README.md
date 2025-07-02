@@ -2,7 +2,7 @@
 
 A responsive and visually appealing clone of the Notion landing page built using **HTML**, **CSS**, and **Bootstrap 5**. This project focuses on frontend design, animations, and modern web layout practices.
 
-<!---![Notion Clone Screenshot](screenshot.png) <!-- Add a screenshot to your repo and link it here -->
+[Notion Clone Screenshot](screenshot/screenshot.png)
 
 ---
 
@@ -33,9 +33,8 @@ A responsive and visually appealing clone of the Notion landing page built using
 
 /notion-landing-page-clone
 │
-├── index.html           # Main HTML file
+├── index.html           # Main file (normally I don't like using one file for the html, css and js but I had to in  this project)
 ├── /assets              # (Optional) Images, icons, etc.
-├── /css                 # Custom CSS styles (if extracted)
 └── README.md
 
 ````
@@ -44,8 +43,7 @@ A responsive and visually appealing clone of the Notion landing page built using
 
 ## 📸 Demo
 
-Live preview: [**View on GitHub Pages**](https://yourusername.github.io/notion-landing-page-clone)  
-> *(Replace with your actual GitHub Pages URL)*
+Live preview: [**View on GitHub Pages**](https://yourusername.github.io/recreate_landing_page_for_notion)
 
 ---
 
@@ -83,4 +81,4 @@ open index.html
 ## 📄 License
 
 This project is for educational purposes and **not affiliated with Notion**.
-You are free to use and modify it for personal or portfolio projects.
+You are free to use and modify it for personal and portfolio projects.
